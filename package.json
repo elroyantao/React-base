@@ -1,6 +1,6 @@
 {
   "name": "yarb",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index.js",
   "repository": "https://gitlab.com/elroyantao/yarb.git",
   "author": "Elroy Antao <elroyantao@gmail.com>",
